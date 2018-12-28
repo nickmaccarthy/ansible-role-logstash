@@ -13,7 +13,7 @@ Requirements
 ```
 java 1.8+ ( try the ansible role geerlingguy.java -- openjdk works fine too )
 ```
-
+[![Build Status](https://travis-ci.org/nickmaccarthy/ansible-role-logstash.svg?branch=master)](https://travis-ci.org/nickmaccarthy/ansible-role-logstash.svg?branch=master)
 Role Variables
 --------------
 ```
