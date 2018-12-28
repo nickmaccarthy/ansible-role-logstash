@@ -15,3 +15,5 @@
     - "{{ logstash_ssl_certificate_file }}"
   notify: restart logstash
   when: logstash_ssl_key_file
+
+  

@@ -33,3 +33,5 @@
     group: logstash
     groups: adm
   notify: restart logstash
+
+  
