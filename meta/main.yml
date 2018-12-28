@@ -3,7 +3,7 @@ galaxy_info:
   role_name: logstash
   author: Nick MacCarthy
   description: A role to install logstash.  Please configure logstash with a seperate role
-  company: nickmaccarthy.com 
+  company: nickmaccarthy.com
   license: "license (BSD, MIT)"
   min_ansible_version: 1.8
   platforms:
@@ -18,7 +18,7 @@ galaxy_info:
       versions:
         - all
 
-  galaxy_tags: 
+  galaxy_tags:
     - web
     - system
     - monitoring
@@ -26,9 +26,8 @@ galaxy_info:
     - logs
     - elk
     - logstash
-    - metrics 
+    - metrics
 
 allow_duplicates: true
 
 dependencies: []
-

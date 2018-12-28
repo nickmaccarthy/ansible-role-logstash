@@ -14,4 +14,3 @@
   package:
     name: logstash
     state: present
-
