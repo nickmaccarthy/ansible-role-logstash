@@ -13,5 +13,3 @@
   with_items: "{{ logstash_install_plugins }}"
   when: "item not in logstash_plugins_list.stdout"
   notify: restart logstash
-
-  

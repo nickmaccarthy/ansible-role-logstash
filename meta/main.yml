@@ -28,5 +28,7 @@ galaxy_info:
     - logstash
     - metrics 
 
+allow_duplicates: true
+
 dependencies: []
 
