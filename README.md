@@ -31,7 +31,7 @@ logstash_ssl_dir: /etc/pki/logstash
 logstash_ssl_certificate_file: ""
 logstash_ssl_key_file: ""
 ```
-From geerlingguy.logstash:  Local paths to the SSL certificate and key files, which will be copied into the `logstash_ssl_dir`.
+From the `geerlingguy.logstash` role:  Local paths to the SSL certificate and key files, which will be copied into the `logstash_ssl_dir`.
 
 For utmost security, you should use your own valid certificate and keyfile, and update the `logstash_ssl_*` variables in your playbook to use your certificate.
 
