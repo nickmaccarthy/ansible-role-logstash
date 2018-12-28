@@ -9,6 +9,8 @@ Note: configuration of logstash (filters, inputs, outputs, etc) should come from
 
 Inspired by [geerlingguy.logstash](https://github.com/geerlingguy/ansible-role-logstash)
 
+Ansible Galaxy Role: [nickmaccarthy.logstash](https://galaxy.ansible.com/nickmaccarthy/logstash)
+
 Requirements
 ------------
 
